@@ -1,0 +1,228 @@
+[[MGARD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "086c108cde514d1a0af462c52921c8788c700502"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "845f661cc3a8902f066d0fc00b6ad5e5316075538b8000a45c7fbaa8b64e3093"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[MGARD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d4c98deea39979750eed8f18cf67c43c34e9be34"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "f416e1b0b1a6604b0134e1e0d9d0344c85925ccca2a769e2ab74dc59d62c748a"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[MGARD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "964d5d1ad26f6a3add25541deef6a8b20cb5ec90"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "03f1780a3c5062377500dded315e147b0d81545dead8ac5623274ffbd71c1b9d"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.aarch64-linux-musl-cxx03.tar.gz"
+[[MGARD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a37f08bc93fafffaa49c7bdeef9fd68f9604bd3"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "fb27d699ed9169f352cd578a1f7935b88ad97ff977df2772fe9d54c43a74bc7d"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.aarch64-linux-musl-cxx11.tar.gz"
+[[MGARD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "656620de52ff8cfa93faf1cf67a6d33ad3b9e489"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "3a5f7430c46c2bdd7c698aa85bfdd0cd8d66ba76c36c09e31a551110d992259e"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[MGARD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6611004b7a2f9019e2dd28ec71e722f716d23a8"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "fcdcd0a1e2d97f4b0b112516ae7ba420431d0b5b33fb352f45e334f2730b72a7"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[MGARD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb35a24442e74369e713d06332888f8a725b4d00"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "98f1f7e1de78290d25d14c60bfd7a8ec106b387b61a7c86f79e9bdb7f11f78be"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[MGARD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27a26ea646451e850d4c0e039892d74b56b9dfdc"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "370e4572a6587ab47438ec48a412c34cb556b9a9a6115450b848ae18b372e9d1"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[MGARD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "656a6dcdd9e965c0148732571adc3e8fe75465e4"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "bbd710a8f80cd026ca53dcbdafbbf90eed69fff5e5d6c098c9ba23644387ec36"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[MGARD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b60dbca88c6803bcac7f317c5071088ed6421d9c"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "bd325143f88743dc5d2c56a62f899f270e3bb3eba2eb27034bcf1de43f0c90ce"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[MGARD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08e0cb5797c8290bf85b499a20a6f44899c86aca"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "abf1a8295f8a45c0dada81ef3ca6cccfa5d4b00517cf8d43bcdac556f9359b5e"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[MGARD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62f6c6fe5aad36a259bcdffb3f3b2e3d117222cc"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "d7367f8898c5125876f1c378bc4354a17026dc684bdc68670d336607e90bd5b2"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[MGARD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "226c65596bfa0617527788d5a6613533b1cb6a37"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "91b28b4f08c31321b2216d0d44382901e12ce10167d32a53047d7bdbf8d2e877"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.i686-linux-gnu-cxx03.tar.gz"
+[[MGARD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8fb53edb6b4e6c76c4bc4557bfef7eab0b2c1e97"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "7350303ac5b4f81a15ebf1f2d70204ea1613d20449f423af67c177f4d818fae8"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.i686-linux-gnu-cxx11.tar.gz"
+[[MGARD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d84d876f1610f37842fde46f02e027b6d5d1ca11"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "764e3d8b8b0ff1222ec02d9ecab5a0d750a2071130bca3648acda8fe0ee97f13"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.i686-linux-musl-cxx03.tar.gz"
+[[MGARD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9f0d87739d8ee87effde7da982db193662a25f5"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "d0840eb080e3fdfb3483fb544d8c0aa77ffb63ecef8b0e0ab4e975c7fe3f247e"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.i686-linux-musl-cxx11.tar.gz"
+[[MGARD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9ca00462d8f76cfa6a613876f5c7818bb13085c8"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "deac858b4330fd5ede8ebd7be657eb1f1b24d24a8925667d1e5753fd7f37fe0a"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[MGARD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aedd77f9884e9ab2829feee6f34e51ce9f0ef9c2"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "98649a358c8ddbc7c051ff13af23007a7ce7847050e612bf36fff7b0ed5540dd"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[MGARD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6a60f1a4dd3149c688eceeee3ea827f10bcf9e25"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "df2f6251333ee5c4db93863e8e6c28b9ced5b237be660561d987810df88958b6"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[MGARD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "813f86301657ce057e20eb9f6acafdad816ae765"
+libc = "glibc"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "69013d51b39644a5e8a1e05cd2802594143ef45ebee6b986e39d78d84c6e99c0"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[MGARD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37515b2ced8a4b02b739bff614a114a1f9a7cd3a"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "a8f7fbec3825a14a09010542a4f9286b2267d23ab5fd5fa0ba2e9cb65f7f2a59"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.x86_64-linux-musl-cxx03.tar.gz"
+[[MGARD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54f2b7af9c47c33055dec609c1f8fa392b28f0ec"
+libc = "musl"
+os = "linux"
+
+    [[MGARD.download]]
+    sha256 = "23a9756ed154fd0285e714b38762ed8f8ca4c89d694415c74b35c1283be4179f"
+    url = "https://github.com/JuliaBinaryWrappers/MGARD_jll.jl/releases/download/MGARD-v1.5.2+0/MGARD.v1.5.2.x86_64-linux-musl-cxx11.tar.gz"
