@@ -1,6 +1,6 @@
 name = "MGARD_jll"
 uuid = "55d5437f-3252-567d-b53c-03ff263d9b41"
-version = "1.5.2+0"
+version = "1.6.0+0"
 
 [deps]
 protoc_jll = "c7845625-083e-5bbe-8504-b32d602b7110"
@@ -13,7 +13,7 @@ LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 Zstd_jll = "3161d3a3-bdf6-5164-811a-617609db77b4"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
